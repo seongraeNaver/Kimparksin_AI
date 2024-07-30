@@ -1,8 +1,8 @@
 import os
 import subprocess
 import json
-
-# Step 1: JSON to YOLO format conversion
+# 수정본 kim
+# Step 1: JSON to YOLO format conversion 
 def convert_annotations():
     def convert_json_to_yolo(json_path, output_path):
         with open(json_path) as f:
