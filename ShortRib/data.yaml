@@ -1,6 +1,0 @@
-# C://ShortRib/data.yaml
-train: C://ShortRib/images/train
-val:  # 검증 세트를 비워둠
-
-nc: 1  # Number of classes
-names: ['lean']  # Class names

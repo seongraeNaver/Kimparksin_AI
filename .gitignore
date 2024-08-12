@@ -1,0 +1,5 @@
+# 무시할 디렉토리
+/yolov5/dataset/raw/
+/yolov5/dataset/images/train/
+/yolov5/dataset/images/test/
+/yolov5/dataset/images/val/
